@@ -2,24 +2,24 @@
 <h3 align="center">Aspiring Data Science Undergraduate with a Passion for Discovering Insights</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=it22323620&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MohamedMuaad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/it22323620?tab=followers">
-    <img src="https://img.shields.io/github/followers/it22323620?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/MohamedMuaad?tab=followers">
+    <img src="https://img.shields.io/github/followers/MohamedMuaad?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/it22323620?tab=repositories">
-    <img src="https://img.shields.io/github/stars/it22323620?label=Stars&style=social" alt="GitHub Stars" />
+  <a href="https://github.com/MohamedMuaad?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MohamedMuaad?label=Stars&style=social" alt="GitHub Stars" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=it22323620&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMuaad&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it22323620&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedMuaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🌱 Currently Learning
